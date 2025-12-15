@@ -1,0 +1,32 @@
+site_name: Cosmere RPG campagin wiki
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - user.color_mode.toggle
+    - user.color_mode.auto
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+markdown_extensions:
+  - admonition
+  - pymdownx.superfences
+  - pymdownx.details
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
+
+nav:
+  - Home: index.md
+  - Uvod: 
+    - sto-je-linux.md
+    - zasto-ne-koristiti-linux.md
+    - zasto-koristiti-linux.md

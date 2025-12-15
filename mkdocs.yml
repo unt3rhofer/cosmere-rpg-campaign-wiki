@@ -1,4 +1,4 @@
-site_name: Cosmere RPG campagin wiki
+site_name: Cosmere RPG campaign wiki
 theme:
   name: material
   features:
@@ -26,6 +26,6 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Campagin dashboard: campagin-dashboard.md
+  - Campaign dashboard: campaign-dashboard.md
   - Sessions:
 

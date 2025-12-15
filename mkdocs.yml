@@ -27,5 +27,4 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Campaign dashboard: campaign-dashboard.md
-  - Sessions:
 

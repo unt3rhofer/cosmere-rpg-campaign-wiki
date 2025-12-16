@@ -1,1 +1,0 @@
-Tumbleweed rolling ...:w

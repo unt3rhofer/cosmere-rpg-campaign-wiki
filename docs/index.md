@@ -1,3 +1,0 @@
-# Cosmere RPG campagin wiki
-
-Tumbleweed rolling ...

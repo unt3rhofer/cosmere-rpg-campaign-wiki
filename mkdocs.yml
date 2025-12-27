@@ -7,18 +7,23 @@ theme:
     - navigation.top.hide
 
 markdown_extensions:
-  - admonition
-  - pymdownx.superfences
-  - pymdownx.details
-  - codehilite:
-      guess_lang: false
-  - toc:
-      permalink: true
-
+  - attr_list
+  - md_in_html
 nav:
-  - Home: index.md 
-  - The World: The-World.md
-  - Notable NPCs: notable-npcs.md
-  - Session logs:
-    - Session 1: session-001.md
+  - Campaign:
+    - Overview: campaign/overview.md
+    - Timeline: campaign/timeline.md
+  - Quests:
+    - Active Quests: quests/active-quests.md
+    - Completed Quests: quests/completed-quests.md
+    - Failed Quests: quests/failed-quests.md
+  - Locations:
+    - World Map: locations/world-map.md
+    - Jah Keved: locations/jah-keved.md
+  - NPCs:
+    - Allies: NPCs/allies.md
+    - Villains: NPCs/villains.md
+    - Other: NPCs/other.md
+
+  
 

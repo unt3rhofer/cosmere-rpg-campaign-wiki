@@ -1,2 +1,2 @@
-[![Map of Roshar](../_assets/rosharmap.jpg)](../_assets/rosharmap.jpg)
+[![Map of Roshar](../assets/rosharmap.jpg)](../assets/rosharmap.jpg)
 

@@ -25,6 +25,7 @@ nav:
     - Allies: NPCs/allies.md
     - Villains: NPCs/villains.md
     - Other: NPCs/other.md
-
-  
+  - Characters:
+    - Party Overview: characters/party-overview.md
+    - Backstories: characters/backstories.md
 

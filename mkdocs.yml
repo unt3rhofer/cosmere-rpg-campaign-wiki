@@ -1,16 +1,27 @@
 site_name: Cosmere RPG campaign wiki
 theme:
-  name: terminal
-  palette: gruvbox_dark
-  features: 
-    #- navigation.side.hide
-    - navigation.top.hide
+  name: material
+  palette:
+    - scheme: default
+      primary: purple
+      accent: purple
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - scheme: slate
+      primary: deep purple
+      accent: deep purple
+      toggle: 
+        icon: material/weather-night
+        name: Switch to light mode
+
 
 markdown_extensions:
   - attr_list
   - md_in_html
 nav:
   - Home: index.md
+  - Rules: rules/cheatsheet.md
   - Campaign:
     - Overview: campaign/overview.md
     - Timeline: campaign/timeline.md
@@ -25,6 +36,8 @@ nav:
     - Allies: NPCs/allies.md
     - Villains: NPCs/villains.md
     - Other: NPCs/other.md
+  - Factions:
+    - Obitelj Ramavel: factions/obitelj-Ramavel.md
   - Characters:
     - Party Overview: characters/party-overview.md
     - Backstories: characters/backstories.md

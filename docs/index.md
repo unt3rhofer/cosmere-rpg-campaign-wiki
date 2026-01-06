@@ -1,2 +1,2 @@
-![struklic](assets/struklic.jpg)
-All hail the great Struklic.
+![cover art](assets/coverart.jpg){width=100%}
+

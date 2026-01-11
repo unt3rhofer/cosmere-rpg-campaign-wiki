@@ -22,20 +22,18 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.extra
 nav:
   - Home: index.md
   - Rules: rules/cheatsheet.md
-  - Campaign:
-    - Overview: campaign/overview.md
-    - Timeline: campaign/timeline.md
+  - Session notes: campaign/session-notes.md
   - Quests:
     - Active Quests: quests/active-quests.md
     - Completed Quests: quests/completed-quests.md
     - Failed Quests: quests/failed-quests.md
   - Locations:
-    - World Map: locations/world-map.md
+    - World: locations/world-map.md
     - Jah Keved: locations/jah-keved.md
-    - Atanam Princedom: locations/atanam-princedom.md
   - NPCs:
     - Allies: NPCs/allies.md
     - Villains: NPCs/villains.md
@@ -46,4 +44,5 @@ nav:
   - Characters:
     - Party Overview: characters/party-overview.md
     - Backstories: characters/backstories.md
+  - Items: items/items.md
 

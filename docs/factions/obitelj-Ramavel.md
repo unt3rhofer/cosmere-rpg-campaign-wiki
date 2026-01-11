@@ -1,7 +1,4 @@
 # Family Tree
+![Ramavel family tree](../assets/ramavelfamilytree.png){width=1000}
 
-<iframe
-  src="assets/ramavel-family.html"
-  style="width:100%; height:90vh; border:none;"
-></iframe>
 

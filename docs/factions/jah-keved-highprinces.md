@@ -5,6 +5,6 @@
 - [Jal Mala](../NPCs/missing.md)
 - [Valam](../NPCs/missing.md)
 - [Urian](../NPCs/missing.md)
-- [Atanam](../NPCs/terelin-atanam.md)
+- [Atanam](../NPCs/other.md#terelin-atanam)
 - [Hallifen](../NPCs/missing.md)
 - [Jerevad](../NPCs/missing.md)

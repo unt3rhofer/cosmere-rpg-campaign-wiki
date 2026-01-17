@@ -33,6 +33,7 @@ nav:
     - Failed Quests: quests/failed-quests.md
   - Locations:
     - World: locations/world-map.md
+    - Purelake: locations/purelake.md
     - Jah Keved: locations/jah-keved.md
   - NPCs:
     - Allies: NPCs/allies.md

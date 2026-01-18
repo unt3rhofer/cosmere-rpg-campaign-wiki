@@ -23,6 +23,9 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.extra
+  - pymdownx.tilde
+  - pymdownx.tasklist:
+      custom_checkbox: true
 nav:
   - Home: index.md
   - Rules: rules/cheatsheet.md

@@ -1,9 +1,8 @@
-## krunidba highprincea Atanama
-**MAIN OBJECTIVE**: sudjelovati na krunidbi novog highprincea Atanama u gradu Damas<br>
-**NOTES**:
+## The attempt on my life has left me scarred and deformed 
+- [x] Saznati tko stoji iza pokušaja atentata na Vaniana Ramavela
+- [ ] Pronaći skladište Rjvhovih bandita
+- [ ] Pronaći dokaze da je obitelj Katial umješana u pokušaj atentata
 
-- na putu prema Damasu našu kočiju napada grupa bandita
+## Writings on the wall
+- [ ] Otkriti tko je ostavio ritmički zapis na zidu prodavaonice začina
 
-**relevant sessions**
-
-- [Session 1](../campaign/session-notes.md#session-1)

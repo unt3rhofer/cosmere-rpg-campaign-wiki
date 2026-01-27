@@ -1,6 +1,9 @@
 ![Map of Jah Keved](../assets/jahkeved.jpg){width=400}<br>
 [Full scale map](../assets/jahkeved.jpg)
 
+!!! warning "Spoilers"
+    [Coppermind entry](https://coppermind.net/wiki/Jah_Keved)
+
 ## Overview
 ### Jah Keved Highprinces
 - [Abrial](../NPCs/missing.md)

@@ -5,6 +5,7 @@
 ## It's treason then
 - [ ] Saznati više o uroti protiv highprincea Atanama
 - [ ] Otkriti na kakvim sve eksperimentima radi obitelj Katial
+    - [ ] Pokušati porazgovarati s Erion Katialom
 
 ## The day is never finish'd, master got me workin'
 - [ ] Suočiti se s Vanianom oko optužbi da trguje robljem

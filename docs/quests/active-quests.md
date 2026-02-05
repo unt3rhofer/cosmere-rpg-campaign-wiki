@@ -9,6 +9,7 @@
 
 ## The day is never finish'd, master got me workin'
 - [ ] Suočiti se s Vanianom oko optužbi da trguje robljem
+- [ ] Posjetiti rudnike u [Ironsway](../locations/jah-keved.md#ironsway)
 
 ## not-really-heart-shaped box
 - [ ] Saznati za što je Vanian planirao iskoristiti gemove koje su banditi pokušali ukrasti

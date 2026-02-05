@@ -34,3 +34,6 @@
 - taverna u kojoj obitelj Ramavel odsjeda za vrijeme posjeta Havathu tokom koronacije highprincea Atanama
 - ![Ramavel Suite](../assets/blackwheel.jpg){width=300}
 > [Full scale map](../assets/blackwheel.jpg)
+#### Ironsway
+- Manje radničko naselje nastalo oko rudnika
+- Obitelj Ramavel posjeduje nekoliko rudnika tamo

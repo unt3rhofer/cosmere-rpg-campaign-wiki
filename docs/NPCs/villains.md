@@ -16,7 +16,7 @@
     - Rezač Čvorova ozlijedio ga je tokom dvoboja na turniru u sklopu krunidbe
 
 ## Ishidah Katial
-- glava kuće Katial
+- trup i udovi kuće Katial
 
 ## Ishesh Katial
 - Ishidina supruga

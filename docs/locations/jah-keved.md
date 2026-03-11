@@ -23,7 +23,7 @@
 - Highprince: [Terelin Atanam](../NPCs/other.md#terelin-atanam)
 - Home princedom of [House Ramavel](../factions/obitelj-Ramavel.md)
 #### Damas
-- Grad u kojem je posjed obitelji Ramavel
+- Grad u blizini kojeg je posjed obitelji Ramavel
 #### Havath
 - Glavni grad Atanam princedoma
 - iznad grada upečatljiva je visoka tvrđava okružena visokim kamenim zidinama

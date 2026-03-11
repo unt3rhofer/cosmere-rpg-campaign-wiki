@@ -13,7 +13,7 @@
 
 ---
 
-## Actions (and Cost)
+## Actions 
 
 ### Brace (1)
 Raise a weapon with the **defensive** trait or hide in cover within 5 feet of you to defend yourself against incoming attacks.

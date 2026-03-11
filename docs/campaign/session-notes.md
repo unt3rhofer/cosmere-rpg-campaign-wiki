@@ -36,4 +36,21 @@ Dok se Nan Rafael i Shallesh nose s Naradom i smrću njegovog oca, Stendarr, Goe
 Nakon ujedinjenja, Narad priznaje sve što je radio za svog oca. Podijeli čudnu magiju koju mu je otac donio iz dalekih zemalja i pomoću nje dovodi preostala dva parshmena u kući do svijesti. Ne imajući vjere u Terelina, Narad je pušten da zajedno sa svojim mlađim bratom i sestrom nađe novi put.<br>
 Umorni i sad 3 člana veći, grupa se vraća do starog kotača. Tamo ih dočekuje čovjek koji se predstavlja kao Terelinov brat. Objašnjava im da ih Terelin namjerava iskoristiti kao žrtvenu janjad za što se desilo Katialima te ih uvjerava da trebaju pobjeći iz grada. Izgleda da je Shallesh izbjegla shardbow. Grupa se tjera da se prije mraka dokopaju šume. Kupuju potrepština za kampiranje i neprimjećeno izlaze iz grada, te u šumi nađu lijepo mjesto za utaboriti se.<br>
 No taman kad su namjeravali zaspati, zaskoči ih čopor (čopor=2) whitespineova, velikih bodljikavih zvijeri. Naviknut, Rezač Čvorova spava kroz cijelu situaciju. Grupa uspješno otjera jednog, no drugi ranjava i trči s jednim parshmanom, Getom. Potjera koja je trajala dovoljno da se šuma u potpunosti smrači tjera whitespinea da spusti plijen i nastavi sukob, pritom kojeg ranjava i Goerana i Vai. Shallesh, razmišljajući brzo, zapali si safehand rukav i maše pred whitespineom, što ga napokon tjera na bijeg. Svi se vrate u kamp, gdje Rezač još uvijek spava, a pospani Stendarr se vratio u šator netom nakon što je otjeran prvi whitespine...
-
+## Session 7
+**datum** 21.02,2026.<br>
+Grupa se nakon 2 dana puta napokon vraća kući. Svi imaju par dana za doći k sebi.</br>
+**Dani 2-6:**</br>
+Goeran radi svoj fabrial.</br>
+Shallesh uči više o medicini.</br>
+Rezač Čvorova i Stendarr su si našli mali usputni poslić.</br>
+Nan Rafael s Kevom prolazi obiteljsku financijsku povijest.</br>
+Vai se druži sa Singerima uz usputni kućanski posao.</br>
+**Dan 7:**</br>
+Nan Rafael moli Goerana da mu pomogne napraviti prilagođeni luk. Goeran razumije tehničke kompleksnosti zadatka, ali ne i tehničke kompleksnosti korištenja metalurških alata, te je pritom napravio 1000 markova štete u iznajmljenoj radionici.<br>
+**Dan 8:**</br>
+Čuje se kucanje na vratima. Sluga kuće Ramavel otvara vrata misterioznoj figuri s kapuljačom. Nan Rafael i Goeran ga slijede do ulaza u Vanianov ured. Goeran prisluškuje iz susjedne sobe, a Rafael s vrata. Pričuju figurino ime - Bakash.</br>
+U tom trenutku je već prekasno - vrata sobe se otvaraju i Bakash i Vanian gledaju ravno u Rafaela. Pozivaju ga u sobu i ispituju što je čuo.</br>
+Zaključavaju Rafaela privremeno u sobu, tijekom kojeg vremena Rafael otvara prozor da uđe u kontakt s Goeranom. Vanian ponovno ulazi u sobu, kaže Rafaelu da bježi i da ga lupi, što Rafael sa zadovoljstvom posluša. Bakash trči za Rafaelom, ali Rafael se već uspio pomoću GRAPLING HOOKA spustiti u dvorište. Bakash bježi nazad u kuću i ubrzo nakon čuju se Kevini krici.</br>
+Goeran se penje kroz prozor roditeljske sobe, Nan Rafael kako je i izašao, a ostali idu kroz kuću.</br>
+Bakash je okružen, ali sva pozornost mu je na Nan Rafaela. Ne primjećuje Stendarra kako se punom brzinom zalijeće na njega. No Stendarr se prilikom svoje odvažne akcije spotiče na mrava... nakon par trenutaka, Bakash se diže s poda i ulazi u poziciju, no Keva leži na podu, krv šiklja iz njenog vrata. Nakon što uvidi da je ovo nepobjediva situacija, Bakash bježi kroz prozor. Stendarr, Goeran, Vai i Rafael idu za njim, a Shallesh ostaje pomoći majci. No ovaj put je spremna. Događaji u kući Katial se neće ponoviti, učila je kako se to ne bi ponovilo...</br>
+Grupa natjerava Bakasha do štale s konjima. tijekom potjere kroz šumu Bakash pokazuje svoje iskustvo. No nije mogao prestići Rafaelove strijele, Vainu snalažljivost, a na posljetku ni kopita Stendarrovog pastuha...

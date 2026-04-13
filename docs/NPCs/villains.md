@@ -20,3 +20,14 @@
 
 ## Ishesh Katial
 - Ishidina supruga
+
+## Bakash
+- znamo da je imao nekakve veze s Katialima
+- suradivao je i s Vanianom
+- krepo.
+??? abstract "Interakcije"
+    - dosao je do Ramavel estatea na sastanak s Vanianom
+    - bio je spomenut u nekom prepisu s obitelji Katial
+    - vjerojatno ima neke veze s Ironswayem
+    - Stendarr ga je hrabro pregazio konjem
+

@@ -78,7 +78,7 @@ U mraku tamnice vidimo nekakvo sjenovito bice koje je ocito cuvar tamo, borimo s
 U kuci Ottawana nam dolazi starica koja je u istoj organizaciji kao Ramavel stariji i ona nam daje informacije gdje je Terelin Atanam u zamjenu za pomoc oko otmice Joneama. Takoder dobivamo vial? neke tekucine koja ce nam pomoci u tome da ga uspavamo. Ottawan, a ni mi nismo sretni s tom idejom. Odlazimo do kuce gdje bi trebao biti Terelin i nalazimo da je to apoteka sa starom zenom koja dobro radi svoj posao. Pokazuje nam Terelina u podrumu. Covjek bunca, ali imamo relativno smislen razgovor, iako on jos uvijek ne vjeruje da je Joneam u stanju to sve napraviti. Takoder nam otkriva da su on i Joneam u stijeni izrezbarili stube kojima su dosli do hrama? u kojem se nalazi disturbing reljef Parshmana?
 Zakljucujem da moram otici na odmor u Shinovar.
 
-## Session ?
+## Session 12
 **datum** 22.05.2026.<br>
 Sad kad je potvrđeno da je Terelin živ, makar jedva, vrijeme je za obavijestiti Otavana. Nan Rafael ih čeka u vrtu Osilinove rezidencije nakon šetnje s Osilinovom kćeri. Pri ulasku u kuću, primjećuje se tihi žamor. Stražari, čistači i svi ostali šuškaju. Vidi se scribe kako s velikom nakupinom papira trči prema Osilinovom uredu. Pri ulasku u njegov biro, Osilin obavještava da je Joneam mobilizirao skoro svu svoju vojsku u smjeru istoka. No na istoku se ne nadzire očita meta…
 
@@ -101,7 +101,7 @@ Na putu tamo Rezač osjeća jaki poriv emocija, i oko nas se ljudi počinju ubij
 
 Pri vrhu brda, na ulazu su dva stražara. No Stendarr je prdnuo mrvicu preglasno i primjećuju nas. Nan Rafael zakači jednog s grappling hookom i baca se niz brdo. Rezač Čvorova i Stendarr izmlate drugoga na mrtvo ime.
 
-## Session ?
+## Session 13
 **datum** 29.05.2026.<br>
 Drugi stražar leži mrtav na litici, njegovo truplo skinuto golo od strane plemenitog Stendarra za oklop. Jedva se stignu spustiti oružja kad se čuje penjanje. Iza klisure izvire Telexova glava, koji se kune da je vidio nekakvu ljubičastu vrištuću mrlju kako leti pored njega na putu prema gore. Dolazi obavijestiti da je Otavanovo imanje opkoljeno od strane Joneamove vojske. U tom trenutku mrtvi stražar se kreće grčiti i progovori svoje zadnje riječi.
 Vai koristi svoje novootkrivene sposobnosti da priča s kamenom pri ulasku dublje u pećinu.

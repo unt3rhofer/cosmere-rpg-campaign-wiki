@@ -27,26 +27,9 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
 nav:
-  - Home: index.md
+  - Home: home/home.md
   - Rules: rules/cheatsheet.md
-  - Session notes: campaign/session-notes.md
-  - Quests:
-    - Active Quests: quests/active-quests.md
-    - Completed Quests: quests/completed-quests.md
-    - Failed Quests: quests/failed-quests.md
-  - Locations:
-    - World: locations/world-map.md
-    - Purelake: locations/purelake.md
-    - Jah Keved: locations/jah-keved.md
-  - NPCs:
-    - Allies: NPCs/allies.md
-    - Villains: NPCs/villains.md
-    - Other: NPCs/other.md
-  - Factions:
-    - Obitelj Ramavel: factions/obitelj-Ramavel.md
-    - Jah Keved Highprinces: factions/jah-keved-highprinces.md
-  - Characters:
-    - Party Overview: characters/party-overview.md
-    - Backstories: characters/backstories.md
-  - Items: items/items.md
-
+  - Session Recaps: session-recaps/session-recaps.md
+  - Points of Interest: points-of-interest/points-of-interest.md
+  - Characters: characters/characters.md
+  - Locations: locations/locations.md
